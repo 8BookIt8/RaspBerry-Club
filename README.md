@@ -118,6 +118,8 @@ Example 1:
 - 정수 n항을 입력받아 피보나치 수열에서의 n항의 값을 출력하시오.
 
 > **단 1 <= n <= 10**
+ 
+> for과 while 함수를 사용하지 않을 것
 
 Example 1:
 |input|output|
