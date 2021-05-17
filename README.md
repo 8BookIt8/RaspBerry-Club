@@ -8,7 +8,7 @@
 Example 1:
 |input|output|
 |:---:|:---|
-|3|%%%<br />%<br />%|
+|3|%%%<br />%%<br />%|
 
 Example 2:
 |input|output|
