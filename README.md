@@ -25,7 +25,7 @@ Example 2:
 
 > **소수점 둘째 자리까지만 출력할 것.**
 
-> **변수 이름은 'i'와 'centies' 2개만 사용 가능할 것.**
+> **main함수 속 변수의 이름은 'i'와 'centies' 2개만 사용할 수 있다.**
 
 Example 1:
 |input|output|
