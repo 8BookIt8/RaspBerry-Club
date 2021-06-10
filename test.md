@@ -8,4 +8,4 @@
 
 ###### 위의 링크로 이동한 후 아래의 글을 따라 진행해주세요.
 
-![다운로드1](C:\Users\8book\Desktop\다운로드1.png)
+![다운로드1](https://user-images.githubusercontent.com/83459153/121503434-082d1780-ca1c-11eb-8886-408ab2a4320e.png)
